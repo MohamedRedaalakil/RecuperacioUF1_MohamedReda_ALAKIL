@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "RecuperacioUF1_MohamedReda_ALAKIL"

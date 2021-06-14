@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecuperacioUF1_MohamedReda_ALAKIL</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="accept_conditions_and_terms">Accept Conditions and Terms</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="save_username_and_password">Save Username and Password</string>
+    <string name="create_a_new_user">Create a new User</string>
+    <string name="login">Login</string>
+    <string name="hello_user">Hello User!</string>
+</resources>

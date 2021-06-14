@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecuperacioUF1_MohamedReda_ALAKIL</string>
+    <string name="repeat_password">" Repeteix la contrasenya "</string>
+    <string name="password">Contrasenya</string>
+    <string name="email">" Correu electronic "</string>
+    <string name="username">" Nom d usuari "</string>
+    <string name="accept_conditions_and_terms">Accept Conditions and Terms</string>
+    <string name="sign_up">" Registre "</string>
+    <string name="save_username_and_password">" Desa el nom d usuari i la contrasenya "</string>
+    <string name="create_a_new_user">" Crea un usuari nou "</string>
+    <string name="login">" Inici "</string>
+    <string name="hello_user">Hola usuari!</string>
+</resources>

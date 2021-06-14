@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cat.copernic.recuperaciouf1_mohamedreda_alakil">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/pinpon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/pinpon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RecuperacioUF1_MohamedReda_ALAKIL">
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".Registrar" />
+        <activity android:name=".Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
